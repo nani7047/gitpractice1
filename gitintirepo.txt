@@ -1,0 +1,4 @@
+Hello
+
+
+This si for git init practice.
